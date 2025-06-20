@@ -1,5 +1,13 @@
-## Hi there 👋
+## Alex Planelles Alonso
 
+<!--
+href="www.linkedin.com/in/alex-planelles-alonso"
+![www.linkedin.com/in/alex-planelles-alonso](https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944 =50x50)
+-->
+
+<a href="www.linkedin.com/in/alex-planelles-alonso">
+  <img src="https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944" width="50">
+</a>
 <!--
 **PlanellesAlex/PlanellesAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

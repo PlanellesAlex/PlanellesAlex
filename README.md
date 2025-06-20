@@ -7,8 +7,9 @@ href="www.linkedin.com/in/alex-planelles-alonso"
 -->
 
 <a href="https://www.linkedin.com/in/alex-planelles-alonso/">
-  <img src="https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944" width="50">
+  <img src="https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944" width="50" alt="My Linkedin Profile">
 </a>
+
 
 ## My experience
 
@@ -18,17 +19,35 @@ href="www.linkedin.com/in/alex-planelles-alonso"
 
 <img src="https://github.com/user-attachments/assets/25ea3fe2-b862-46e0-b23d-c5b51911c0b7" width="50">
 
-- [ ] Runge-Kutta
-- [ ] Monte Carlo
-- [ ] Data Analysis and Visualization
-- [ ] Ordinary Differential Equations (EDOs)
-- [ ] Partial Differential Equations (EDPs)
+-------------------------------------------------------------------
+Throught my Physics degree and various courses I have mastered the following techniques:
 
+-  Runge-Kutta
+-  Monte Carlo
+-  Data Analysis and Visualization
+-  Ordinary Differential Equations (EDOs)
+-  Partial Differential Equations (EDPs)
 
+------------------------------------------------------------------------------------------------------
+
+As well as a deep understanding of many data managent libraries in python such as:
+
+<img src= "https://github.com/user-attachments/assets/57ca645f-0119-4996-a5c7-64b79fad07f9" height="80">
+<img src="https://github.com/user-attachments/assets/fbd23005-59bd-4178-8d56-e848c49aade5" height="80">
+<img src="https://github.com/user-attachments/assets/91af6d5f-78f8-41c4-bc1d-4ecfbf07431b" height="80">
+<img src="https://github.com/user-attachments/assets/18c43b33-a0e0-47ba-a62b-d7efceec894f" height="80">
+
+-----------------------------------------------
+And several data visualization libraries
 
 
 ### Programming Languages I Have Worked With in the Past
 -------------------------------------------------------------------
+I started my programming journey when I was 9 years old with the first versions of Scratch 2.0. Even before the first stable editor was released. Simultaneously I had enrolled in my school's robotics team and started playing around with a language similar to ROBOTC.
+
+As of today I have not forgotten about them but it has been many years since the last time I used them (for obvious reasons)
+
+
 <img src="https://github.com/user-attachments/assets/968a35d8-8938-4c9c-9620-dc82601298e7" height="80">
 <img src="https://github.com/user-attachments/assets/e8902bb4-c832-4256-aa51-f549b57f2443" height="80">
 

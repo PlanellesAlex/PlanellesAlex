@@ -5,7 +5,7 @@ href="www.linkedin.com/in/alex-planelles-alonso"
 ![www.linkedin.com/in/alex-planelles-alonso](https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944 =50x50)
 -->
 
-<a href="www.linkedin.com/in/alex-planelles-alonso">
+<a href="https://www.linkedin.com/in/alex-planelles-alonso/">
   <img src="https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944" width="50">
 </a>
 <!--

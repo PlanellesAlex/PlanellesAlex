@@ -1,5 +1,5 @@
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572](https://github.com/user-attachments/assets/193f29cc-dd15-47ea-9432-1aabac865d2c)
-# Alex Planelles Alonso
+# Alex Planelles Alonso - Physicist 
 
 <!--
 href="www.linkedin.com/in/alex-planelles-alonso"
@@ -18,6 +18,11 @@ href="www.linkedin.com/in/alex-planelles-alonso"
 
 <img src="https://github.com/user-attachments/assets/25ea3fe2-b862-46e0-b23d-c5b51911c0b7" width="50">
 
+- [ ] Runge-Kutta
+- [ ] Monte Carlo
+- [ ] Data Analysis and Visualization
+- [ ] Ordinary Differential Equations (EDOs)
+- [ ] Partial Differential Equations (EDPs)
 
 
 

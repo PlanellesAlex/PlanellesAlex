@@ -7,6 +7,7 @@ href="www.linkedin.com/in/alex-planelles-alonso"
 -->
 
 <a href="https://www.linkedin.com/in/alex-planelles-alonso/">
+       
   <img src="https://github.com/user-attachments/assets/038b7f45-060e-4a84-90ae-209f0d400944" width="50" alt="My Linkedin Profile">
 </a>
 
@@ -30,12 +31,17 @@ Throught my Physics degree and various courses I have mastered the following tec
 
 ------------------------------------------------------------------------------------------------------
 
-As well as a deep understanding of many data managent libraries in python such as:
+As well as a deep understanding of many data managent libraries, statistics libraries, algorithm parallelization libraries and other usefull libraries in python such as:
 
 <img src= "https://github.com/user-attachments/assets/57ca645f-0119-4996-a5c7-64b79fad07f9" height="80">
 <img src="https://github.com/user-attachments/assets/fbd23005-59bd-4178-8d56-e848c49aade5" height="80">
 <img src="https://github.com/user-attachments/assets/91af6d5f-78f8-41c4-bc1d-4ecfbf07431b" height="80">
 <img src="https://github.com/user-attachments/assets/18c43b33-a0e0-47ba-a62b-d7efceec894f" height="80">
+<img src="https://github.com/user-attachments/assets/32d09e95-d3e2-444e-9f98-26f70a0dfb28" height="80">
+<img src="https://github.com/user-attachments/assets/dbbdd53f-d224-42fc-b4a2-67efa676be8c" height="80">
+
+
+
 
 -----------------------------------------------
 And several data visualization libraries
